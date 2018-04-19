@@ -1,0 +1,23 @@
+{
+  "name": "les-2",
+  "version": "1.0.0",
+  "description": "Eerste node server",
+  "main": "server-1-text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngevZetten/programmeren4-nodejsServer.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Inge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngevZetten/programmeren4-nodejsServer/issues"
+  },
+  "homepage": "https://github.com/IngevZetten/programmeren4-nodejsServer#readme"
+}
